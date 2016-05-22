@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DragAndDraw</string>
+    <string name="reload">reload</string>
+</resources>

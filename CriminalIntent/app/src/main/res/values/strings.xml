@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter a title for a crime</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="date_picker_fragment">Date of time:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="remove_crime">Remove Crime</string>
+    <plurals name="subtitle_format">
+        <item quantity="one">%1$s crime</item>
+        <item quantity="other">%1$s crimes</item>
+    </plurals>
+    <string name="there_are_no_crimes">There are no crimes</string>
+    <string name="choose_suspect">Choose Suspect</string>
+    <string name="send_crime_report">Send Crime Report</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s and %4$s</string>
+    <string name="case_is_solved">The case is solved</string>
+    <string name="case_is_not_solved">The case is not solved</string>
+    <string name="there_is_no_suspect">there is no suspect</string>
+    <string name="crime_report_suspect">the suspect is %s</string>
+    <string name="crime_report_subject">Criminal Intent Crime Report</string>
+    <string name="send_crime_report_via">Send Crime Report via</string>
+    <string name="phone_suspect">Phone Suspect</string>
+</resources>

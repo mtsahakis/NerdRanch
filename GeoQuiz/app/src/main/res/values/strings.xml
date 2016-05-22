@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_oceans">The pacific ocean is largest than the Atlantic ocean</string>
+    <string name="question_mideast">The Suez canal connects the red sea</string>
+    <string name="question_africa">The source of Nile river is in Egypt</string>
+    <string name="question_america">The Amazon river is the longest river</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest lake</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="title_activity_cheat">Cheat</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="you_cheated">You cheated!</string>
+    <string name="api_level">Api Level</string>
+</resources>
